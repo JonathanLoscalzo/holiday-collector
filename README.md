@@ -1,17 +1,20 @@
 # holidaycollector #
 
-Console script that collects and parse *.ics files and transforms it to csv.
+Console script that collects and parses *.ics files and transforms them to csv format.
 
 Author: Jonathan Loscalzo <<jonathan.r.loscalzo@gmail.com>>
 
 ## Installation ##
 
-It is strongly recommended that you use [virtualenv][]/[pipsi][]/[conda env][].
-Activate your environment, and then run
+It is strongly recommended that you use virtualenv/pipsi/conda.
+Activate your environment, and then run:
+
 ```
     pip install holidaycollector
 ```
+
     or
+
 ```
     pip install .
 ```
@@ -43,5 +46,6 @@ for details.
 
 - https://dev.to/codemouse92/dead-simple-python-project-structure-and-imports-38c6
 - https://realpython.com/python-application-layouts/
+- https://github.com/goerz/cookiecutter-pyscript/tree/master/%7B%7Bcookiecutter.project_name%7D%7D
 
 [LICENSE]: LICENSE

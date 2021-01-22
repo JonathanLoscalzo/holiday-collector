@@ -1,0 +1,172 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: https://dias-festivos.eu/
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+NAME:Días festivos 2021 Argentina
+X-WR-CALNAME:Días festivos 2021 Argentina
+DESCRIPTION:A service of dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+X-WR-CALDESC:A service of dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+BEGIN:VEVENT
+UID:argentina--2021-1@dias-festivos.eu
+DTSTAMP:20210101T000000
+DTSTART;VALUE=DATE:20210101
+DTEND;VALUE=DATE:20210101
+SUMMARY:Año Nuevo 
+DESCRIPTION:día festivo nacional en Argentina | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina--2021-3@dias-festivos.eu
+DTSTAMP:20210215T000000
+DTSTART;VALUE=DATE:20210215
+DTEND;VALUE=DATE:20210215
+SUMMARY:Carnaval 
+DESCRIPTION:día festivo nacional en Argentina | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina--2021-4@dias-festivos.eu
+DTSTAMP:20210216T000000
+DTSTART;VALUE=DATE:20210216
+DTEND;VALUE=DATE:20210216
+SUMMARY:Carnaval 
+DESCRIPTION:día festivo nacional en Argentina | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina--2021-5@dias-festivos.eu
+DTSTAMP:20210324T000000
+DTSTART;VALUE=DATE:20210324
+DTEND;VALUE=DATE:20210324
+SUMMARY:Día Nacional de la Verdad y la Justicia 
+DESCRIPTION:día festivo nacional en Argentina | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina--2021-6@dias-festivos.eu
+DTSTAMP:20210401T000000
+DTSTART;VALUE=DATE:20210401
+DTEND;VALUE=DATE:20210401
+SUMMARY:Jueves Santo 
+DESCRIPTION:día festivo regional | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina--2021-7@dias-festivos.eu
+DTSTAMP:20210402T000000
+DTSTART;VALUE=DATE:20210402
+DTEND;VALUE=DATE:20210402
+SUMMARY:Día de las Malvinas 
+DESCRIPTION:día festivo nacional en Argentina | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina--2021-8@dias-festivos.eu
+DTSTAMP:20210402T000000
+DTSTART;VALUE=DATE:20210402
+DTEND;VALUE=DATE:20210402
+SUMMARY:Viernes Santo 
+DESCRIPTION:día festivo nacional en Argentina | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina--2021-9@dias-festivos.eu
+DTSTAMP:20210404T000000
+DTSTART;VALUE=DATE:20210404
+DTEND;VALUE=DATE:20210404
+SUMMARY:Pascuas 
+DESCRIPTION:día festivo nacional en Argentina | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina--2021-10@dias-festivos.eu
+DTSTAMP:20210501T000000
+DTSTART;VALUE=DATE:20210501
+DTEND;VALUE=DATE:20210501
+SUMMARY:Día Internacional del Trabajo 
+DESCRIPTION:día festivo nacional en Argentina | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina--2021-11@dias-festivos.eu
+DTSTAMP:20210525T000000
+DTSTART;VALUE=DATE:20210525
+DTEND;VALUE=DATE:20210525
+SUMMARY:Día de la Revolución de Mayo 
+DESCRIPTION:día festivo nacional en Argentina | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina--2021-12@dias-festivos.eu
+DTSTAMP:20210617T000000
+DTSTART;VALUE=DATE:20210617
+DTEND;VALUE=DATE:20210617
+SUMMARY:Muerte del General Martín Miguel de Güemes 
+DESCRIPTION:día festivo nacional en Argentina | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina--2021-13@dias-festivos.eu
+DTSTAMP:20210620T000000
+DTSTART;VALUE=DATE:20210620
+DTEND;VALUE=DATE:20210620
+SUMMARY:Muerte del Gral. Manuel Belgrano 
+DESCRIPTION:día festivo nacional en Argentina | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina--2021-14@dias-festivos.eu
+DTSTAMP:20210709T000000
+DTSTART;VALUE=DATE:20210709
+DTEND;VALUE=DATE:20210709
+SUMMARY:Día de la Independencia 
+DESCRIPTION:día festivo nacional en Argentina | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina--2021-15@dias-festivos.eu
+DTSTAMP:20210816T000000
+DTSTART;VALUE=DATE:20210816
+DTEND;VALUE=DATE:20210816
+SUMMARY:Muerte del Gral. José de San Martín 
+DESCRIPTION:día festivo nacional en Argentina | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina--2021-16@dias-festivos.eu
+DTSTAMP:20211011T000000
+DTSTART;VALUE=DATE:20211011
+DTEND;VALUE=DATE:20211011
+SUMMARY:Día del Respeto a la Diversidad Cultural 
+DESCRIPTION:día festivo nacional en Argentina | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina--2021-17@dias-festivos.eu
+DTSTAMP:20211122T000000
+DTSTART;VALUE=DATE:20211122
+DTEND;VALUE=DATE:20211122
+SUMMARY:Día de la Soberanía Nacional 
+DESCRIPTION:día festivo nacional en Argentina | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina--2021-18@dias-festivos.eu
+DTSTAMP:20211208T000000
+DTSTART;VALUE=DATE:20211208
+DTEND;VALUE=DATE:20211208
+SUMMARY:Día de la Inmaculada Concepción 
+DESCRIPTION:día festivo nacional en Argentina | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:argentina--2021-20@dias-festivos.eu
+DTSTAMP:20211225T000000
+DTSTART;VALUE=DATE:20211225
+DTEND;VALUE=DATE:20211225
+SUMMARY:Navidad 
+DESCRIPTION:día festivo nacional en Argentina | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

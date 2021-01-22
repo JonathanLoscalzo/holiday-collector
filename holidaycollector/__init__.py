@@ -1,0 +1,1 @@
+from .holidaycollector import main, __version__

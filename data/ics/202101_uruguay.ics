@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: https://dias-festivos.eu/
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+NAME:Feriados Uruguay 2021
+X-WR-CALNAME:Feriados Uruguay 2021
+DESCRIPTION:A service of dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+X-WR-CALDESC:A service of dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+BEGIN:VEVENT
+UID:uruguay--2021-1@dias-festivos.eu
+DTSTAMP:20210101T000000
+DTSTART;VALUE=DATE:20210101
+DTEND;VALUE=DATE:20210101
+SUMMARY:Año nuevo 
+DESCRIPTION:feriado nacional en Uruguay | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uruguay--2021-2@dias-festivos.eu
+DTSTAMP:20210106T000000
+DTSTART;VALUE=DATE:20210106
+DTEND;VALUE=DATE:20210106
+SUMMARY:Día de los niños / Epifanía 
+DESCRIPTION:feriado nacional en Uruguay | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uruguay--2021-3@dias-festivos.eu
+DTSTAMP:20210215T000000
+DTSTART;VALUE=DATE:20210215
+DTEND;VALUE=DATE:20210215
+SUMMARY:Carnaval 
+DESCRIPTION:feriado nacional en Uruguay | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uruguay--2021-4@dias-festivos.eu
+DTSTAMP:20210216T000000
+DTSTART;VALUE=DATE:20210216
+DTEND;VALUE=DATE:20210216
+SUMMARY:Carnaval 
+DESCRIPTION:feriado nacional en Uruguay | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uruguay--2021-5@dias-festivos.eu
+DTSTAMP:20210401T000000
+DTSTART;VALUE=DATE:20210401
+DTEND;VALUE=DATE:20210401
+SUMMARY:Semana de Turismo / Semana Santa 
+DESCRIPTION:feriado nacional en Uruguay | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uruguay--2021-6@dias-festivos.eu
+DTSTAMP:20210402T000000
+DTSTART;VALUE=DATE:20210402
+DTEND;VALUE=DATE:20210402
+SUMMARY:Semana de Turismo / Semana Santa 
+DESCRIPTION:feriado nacional en Uruguay | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uruguay--2021-7@dias-festivos.eu
+DTSTAMP:20210419T000000
+DTSTART;VALUE=DATE:20210419
+DTEND;VALUE=DATE:20210419
+SUMMARY:Desembarco de los 33 Orientales 
+DESCRIPTION:feriado nacional en Uruguay | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uruguay--2021-8@dias-festivos.eu
+DTSTAMP:20210501T000000
+DTSTART;VALUE=DATE:20210501
+DTEND;VALUE=DATE:20210501
+SUMMARY:Día de los trabajadores 
+DESCRIPTION:feriado nacional en Uruguay | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uruguay--2021-9@dias-festivos.eu
+DTSTAMP:20210518T000000
+DTSTART;VALUE=DATE:20210518
+DTEND;VALUE=DATE:20210518
+SUMMARY:Batalla de las piedras 
+DESCRIPTION:feriado nacional en Uruguay | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uruguay--2021-10@dias-festivos.eu
+DTSTAMP:20210619T000000
+DTSTART;VALUE=DATE:20210619
+DTEND;VALUE=DATE:20210619
+SUMMARY:Natalicio de José Artigas 
+DESCRIPTION:feriado nacional en Uruguay | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uruguay--2021-11@dias-festivos.eu
+DTSTAMP:20210718T000000
+DTSTART;VALUE=DATE:20210718
+DTEND;VALUE=DATE:20210718
+SUMMARY:Jura de la Constitución 
+DESCRIPTION:feriado nacional en Uruguay | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uruguay--2021-12@dias-festivos.eu
+DTSTAMP:20210825T000000
+DTSTART;VALUE=DATE:20210825
+DTEND;VALUE=DATE:20210825
+SUMMARY:Declaratoria de la Independencia 
+DESCRIPTION:feriado nacional en Uruguay | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uruguay--2021-13@dias-festivos.eu
+DTSTAMP:20211011T000000
+DTSTART;VALUE=DATE:20211011
+DTEND;VALUE=DATE:20211011
+SUMMARY:Día de las Américas 
+DESCRIPTION:feriado nacional en Uruguay | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uruguay--2021-14@dias-festivos.eu
+DTSTAMP:20211102T000000
+DTSTART;VALUE=DATE:20211102
+DTEND;VALUE=DATE:20211102
+SUMMARY:Día de los Fieles Difuntos 
+DESCRIPTION:feriado nacional en Uruguay | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uruguay--2021-15@dias-festivos.eu
+DTSTAMP:20211225T000000
+DTSTART;VALUE=DATE:20211225
+DTEND;VALUE=DATE:20211225
+SUMMARY:Día de la familia / Navidad 
+DESCRIPTION:feriado nacional en Uruguay | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

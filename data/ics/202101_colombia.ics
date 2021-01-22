@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: https://dias-festivos.eu/
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+NAME:Días festivos Colombia 2021
+X-WR-CALNAME:Días festivos Colombia 2021
+DESCRIPTION:A service of dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+X-WR-CALDESC:A service of dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+BEGIN:VEVENT
+UID:colombia--2021-1@dias-festivos.eu
+DTSTAMP:20210101T000000
+DTSTART;VALUE=DATE:20210101
+DTEND;VALUE=DATE:20210101
+SUMMARY:Año Nuevo 
+DESCRIPTION:día festivo nacional en Colombia | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colombia--2021-2@dias-festivos.eu
+DTSTAMP:20210111T000000
+DTSTART;VALUE=DATE:20210111
+DTEND;VALUE=DATE:20210111
+SUMMARY:Día de los Reyes Magos 
+DESCRIPTION:día festivo nacional en Colombia | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colombia--2021-3@dias-festivos.eu
+DTSTAMP:20210322T000000
+DTSTART;VALUE=DATE:20210322
+DTEND;VALUE=DATE:20210322
+SUMMARY:Día de San José 
+DESCRIPTION:día festivo nacional en Colombia | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colombia--2021-4@dias-festivos.eu
+DTSTAMP:20210401T000000
+DTSTART;VALUE=DATE:20210401
+DTEND;VALUE=DATE:20210401
+SUMMARY:Jueves Santo 
+DESCRIPTION:día festivo nacional en Colombia | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colombia--2021-5@dias-festivos.eu
+DTSTAMP:20210402T000000
+DTSTART;VALUE=DATE:20210402
+DTEND;VALUE=DATE:20210402
+SUMMARY:Viernes Santo 
+DESCRIPTION:día festivo nacional en Colombia | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colombia--2021-6@dias-festivos.eu
+DTSTAMP:20210404T000000
+DTSTART;VALUE=DATE:20210404
+DTEND;VALUE=DATE:20210404
+SUMMARY:Domingo de Pascua 
+DESCRIPTION:día festivo nacional en Colombia | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colombia--2021-7@dias-festivos.eu
+DTSTAMP:20210501T000000
+DTSTART;VALUE=DATE:20210501
+DTEND;VALUE=DATE:20210501
+SUMMARY:Día del Trabajo 
+DESCRIPTION:día festivo nacional en Colombia | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colombia--2021-8@dias-festivos.eu
+DTSTAMP:20210517T000000
+DTSTART;VALUE=DATE:20210517
+DTEND;VALUE=DATE:20210517
+SUMMARY:La Ascensión del Señor 
+DESCRIPTION:día festivo nacional en Colombia | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colombia--2021-9@dias-festivos.eu
+DTSTAMP:20210607T000000
+DTSTART;VALUE=DATE:20210607
+DTEND;VALUE=DATE:20210607
+SUMMARY:Corpus Christi 
+DESCRIPTION:día festivo nacional en Colombia | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colombia--2021-10@dias-festivos.eu
+DTSTAMP:20210614T000000
+DTSTART;VALUE=DATE:20210614
+DTEND;VALUE=DATE:20210614
+SUMMARY:El Sagrado Corazón de Jesús 
+DESCRIPTION:día festivo nacional en Colombia | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colombia--2021-11@dias-festivos.eu
+DTSTAMP:20210705T000000
+DTSTART;VALUE=DATE:20210705
+DTEND;VALUE=DATE:20210705
+SUMMARY:San Pedro y San Pablo 
+DESCRIPTION:día festivo nacional en Colombia | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colombia--2021-12@dias-festivos.eu
+DTSTAMP:20210720T000000
+DTSTART;VALUE=DATE:20210720
+DTEND;VALUE=DATE:20210720
+SUMMARY:Grito de Independencia 
+DESCRIPTION:día festivo nacional en Colombia | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colombia--2021-13@dias-festivos.eu
+DTSTAMP:20210807T000000
+DTSTART;VALUE=DATE:20210807
+DTEND;VALUE=DATE:20210807
+SUMMARY:Batalla de Boyacá 
+DESCRIPTION:día festivo nacional en Colombia | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colombia--2021-14@dias-festivos.eu
+DTSTAMP:20210816T000000
+DTSTART;VALUE=DATE:20210816
+DTEND;VALUE=DATE:20210816
+SUMMARY:Asunción de la Virgen 
+DESCRIPTION:día festivo nacional en Colombia | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colombia--2021-15@dias-festivos.eu
+DTSTAMP:20211018T000000
+DTSTART;VALUE=DATE:20211018
+DTEND;VALUE=DATE:20211018
+SUMMARY:Día de la Raza 
+DESCRIPTION:día festivo nacional en Colombia | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colombia--2021-16@dias-festivos.eu
+DTSTAMP:20211101T000000
+DTSTART;VALUE=DATE:20211101
+DTEND;VALUE=DATE:20211101
+SUMMARY:Todos los Santos 
+DESCRIPTION:día festivo nacional en Colombia | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colombia--2021-17@dias-festivos.eu
+DTSTAMP:20211115T000000
+DTSTART;VALUE=DATE:20211115
+DTEND;VALUE=DATE:20211115
+SUMMARY:Independencia de Cartagena 
+DESCRIPTION:día festivo nacional en Colombia | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colombia--2021-18@dias-festivos.eu
+DTSTAMP:20211208T000000
+DTSTART;VALUE=DATE:20211208
+DTEND;VALUE=DATE:20211208
+SUMMARY:Inmaculada Concepción 
+DESCRIPTION:día festivo nacional en Colombia | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colombia--2021-19@dias-festivos.eu
+DTSTAMP:20211225T000000
+DTSTART;VALUE=DATE:20211225
+DTEND;VALUE=DATE:20211225
+SUMMARY:Navidad 
+DESCRIPTION:día festivo nacional en Colombia | dias-festivos.eu. All data without guarantee! / Alle Angaben ohne Gewähr!
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""an script that collects and parse ics files to csv or others"""
+"""Console script that collects and parses *.ics files and transforms them to csv format."""
 # See LICENSE for terms of use.
 
 import sys
@@ -24,7 +24,6 @@ def set_config(debug: bool):
     return logger
 
 
-# @click.command()
 @click.help_option("--help", "-h")
 @click.version_option(version=__version__)
 @click.option("--debug", is_flag=True, help="enable debug logging")
@@ -58,14 +57,13 @@ def download_and_transform(country):
     filename = download(country)
     filename = filename.split("/")[-1]
     transform(filename)
-    # transform_csv(filename)
 
 
 @main.command()
 @click.option(
     "--date-part",
     type=click.STRING,
-    prompt=True,
+    prompt="Ingrese la fecha en formato yyyymm",
     help="Ingrese la fecha en formato yyyymm",
 )
 def concat_files(date_part):
